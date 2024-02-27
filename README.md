@@ -1,5 +1,5 @@
 # java_game
-A platform game developed in Semester.
+A java platform game developed in Semester 1 using collision detection.
 You play as the hero (square), evading the enemy (ball). You lose a life if hero hits the enemy or falls offscreen.
 Score points and stop enemy growing and increasing speed by shooting enemy.
 
